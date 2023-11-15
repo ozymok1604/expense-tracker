@@ -2,7 +2,7 @@ import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Footer } from "./layouts/Footer/Footer";
 import { Home } from "./pages/Home";
-import { Expenses } from "./pages/Expenses";
+import { ExpensesPage } from "./pages/Expenses";
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/expenses" element={<Expenses />} />
+          <Route path="/expenses" element={<ExpensesPage />} />
         </Routes>
       </BrowserRouter>
     </div>

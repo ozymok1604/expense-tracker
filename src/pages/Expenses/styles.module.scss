@@ -1,0 +1,20 @@
+.page_content {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  align-items: center;
+  margin-top: 70px;
+}
+
+.calendar_header {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.wrapper {
+  display: flex;
+  width: 92vw;
+  justify-content: space-between;
+  flex-direction: row;
+}

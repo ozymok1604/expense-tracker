@@ -1,0 +1,36 @@
+.total_balance {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 160px;
+  height: 170px;
+  background-color: #8234f8;
+  border: none;
+  border-radius: 6px 6px 0px 0px;
+}
+
+.bank_account {
+  width: 140px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  height: 55px;
+  flex-direction: row;
+  background-color: #fafafa;
+  border: none;
+  border-radius: 6px 6px 0px 0px;
+  align-items: center;
+}
+
+.sum {
+  font-size: 27px;
+  color: white;
+  padding-left: 20px;
+}
+.title {
+  padding-top: 20px;
+  padding-left: 20px;
+  color: #fafafa;
+  font-size: 16px;
+}

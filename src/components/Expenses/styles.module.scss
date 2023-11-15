@@ -1,0 +1,91 @@
+.view {
+  font-size: 12px;
+  color: #a3a3a3;
+}
+.header {
+  width: 90vw;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-top: 20px;
+}
+
+.title {
+  font-size: 24px;
+}
+
+.expenses_block {
+  height: 185px;
+  background-color: #fafafa;
+}
+
+.block_header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 15px;
+}
+
+.date {
+  font-size: 16px;
+  color: #615c5c;
+}
+
+.expense_type {
+  font-size: 16px;
+  color: #615c5c;
+}
+
+.main_data {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.text {
+  color: #615c5c;
+  font-size: 16px;
+}
+
+.spends_titles {
+  padding-left: 10px;
+  width: 60vw;
+  padding-top: 25px;
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+}
+
+.spends {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  padding-left: 20px;
+  padding-top: 20px;
+  justify-content: space-between;
+}
+
+.spend {
+  color: #2bb272;
+  font-size: 18px;
+}
+.budget {
+  color: black;
+  font-size: 18px;
+}
+.procents {
+  color: #2bb272;
+  font-size: 18px;
+}
+
+.procents_scale {
+  margin-left: 20px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 13px;
+  background-color: #8635f7;
+  width: 250px;
+  height: 13px;
+}
