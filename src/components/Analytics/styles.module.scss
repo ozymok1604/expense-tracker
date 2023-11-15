@@ -1,0 +1,67 @@
+.header {
+  width: 90vw;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-top: 10px;
+}
+
+.title {
+  font-size: 24px;
+}
+
+.year_select {
+  display: flex;
+  background-color: #ff653a;
+  border: 0px;
+  border-radius: 12px;
+  width: 115px;
+  height: 35px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.year {
+  font-size: 13px;
+  color: white;
+}
+
+.statystic_row {
+  width: 90vw;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-top: 10px;
+}
+.column_container {
+  height: 160px;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.column {
+  width: 30px;
+  height: 100px;
+  background-color: #fafafa;
+  border: none;
+
+  border-radius: 6px 6px 0px 0px;
+}
+
+.sum {
+  font-size: 10px;
+  color: #a3a3a3;
+}
+
+.month {
+  font-size: 13px;
+  color: #a3a3a3;
+  padding-top: 10px;
+}

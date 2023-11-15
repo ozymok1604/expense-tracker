@@ -1,0 +1,49 @@
+.card {
+  width: 90vw;
+  height: 190px;
+  background-color: #2f3046;
+  border: 0px;
+  border-radius: 24px;
+}
+
+.options {
+  color: white;
+  font-size: 30px;
+}
+
+.options_container {
+  display: flex;
+  justify-content: flex-end;
+  width: 83vw;
+}
+
+.card_content {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  padding-left: 20px;
+}
+
+.balance_title {
+  color: #fafafa;
+  font-size: 18px;
+}
+.balance {
+  color: white;
+  font-size: 30px;
+  padding-top: 16px;
+}
+
+.card_number {
+  color: #a3a3a3;
+  font-size: 18px;
+}
+
+.card_number_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80vw;
+  padding-top: 30px;
+  flex-direction: row;
+}

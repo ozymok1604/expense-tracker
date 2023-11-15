@@ -1,0 +1,46 @@
+.transaction {
+  width: 90vw;
+  height: 60px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #fafafa;
+  align-items: center;
+  border: none;
+  border-radius: 10px;
+}
+
+.main_data {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.other_data {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  align-items: flex-end;
+}
+.transaction_title {
+  font-size: 16px;
+}
+.transaction_type {
+  color: #a3a3a3;
+  font-size: 12px;
+}
+
+.date {
+  color: #a3a3a3;
+  font-size: 12px;
+}
+
+.sum {
+  color: #2bb272;
+  font-size: 18px;
+}
