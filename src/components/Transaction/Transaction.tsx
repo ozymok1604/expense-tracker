@@ -1,5 +1,5 @@
 import styles from "./styles.module.scss";
-const Transaction = ({ transactionData }: { transactionData: any }) => {
+const Transaction = ({ transactionData }: { transactionData: Transaction }) => {
   return (
     <div className={styles.transaction}>
       <img src={transactionData.avatar} alt="NikeAvatar" />

@@ -26,7 +26,7 @@ const Transactions = () => {
         <div className={styles.view}>View All</div>
       </div>
       <div className={styles.transactions_container}>
-        {data?.map((transaction: any) => (
+        {data?.map((transaction: Transaction) => (
           <Transaction transactionData={transaction} />
         ))}
       </div>
