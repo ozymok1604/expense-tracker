@@ -1,6 +1,5 @@
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { Footer } from "./layouts/Footer/Footer";
 import { HomePage } from "./pages/Home";
 import { ExpensesPage } from "./pages/Expenses";
 
@@ -9,8 +8,8 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/expenses" element={<ExpensesPage />} />
+          <Route path="/tracker" element={<HomePage />} />
+          <Route path="/tracker/expenses" element={<ExpensesPage />} />
         </Routes>
       </BrowserRouter>
     </div>
