@@ -12,10 +12,10 @@ const Footer = () => {
   const isExpensesActive = window.location.href.includes("expenses");
   return (
     <div className={styles.footer}>
-      <Link className={styles.link} to="/">
+      <Link className={styles.link} to="/expense-tracker">
         <img src={isExpensesActive ? Home : ActiveHome} alt="Home" />
       </Link>
-      <Link to="/expenses">
+      <Link to="/expense-tracker/expenses">
         <img
           src={isExpensesActive ? ActiveExpenses : Expenses}
           alt="Expenses"
