@@ -4,7 +4,7 @@ import { Transactions } from "../../components/Transactions";
 import { Footer } from "../../layouts/Footer/Footer";
 import { Header } from "../../layouts/Header/Header";
 import styles from "./styles.module.scss";
-const Home = () => {
+const HomePage = () => {
   return (
     <>
       <Header title="Home" />
@@ -19,4 +19,4 @@ const Home = () => {
   );
 };
 
-export { Home };
+export { HomePage };

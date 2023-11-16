@@ -1,5 +1,5 @@
-import styles from "./styles.module.scss";
 import Mastercard from "../../assets/Mastercard.svg";
+import styles from "./styles.module.scss";
 const Card = () => {
   return (
     <>

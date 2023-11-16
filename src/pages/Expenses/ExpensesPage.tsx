@@ -15,7 +15,7 @@ const ExpensesPage = () => {
       <div className={styles.page_content}>
         <Calendar />
         <div className={styles.wrapper}>
-          {cardsData.map((cardData: any) => (
+          {cardsData.map((cardData: Card) => (
             <TotalBalance data={cardData} />
           ))}
         </div>

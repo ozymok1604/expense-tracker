@@ -1,5 +1,5 @@
-import styles from "./styles.module.scss";
 import ArrowDown from "../../assets/ArrowDown.svg";
+import styles from "./styles.module.scss";
 const Analytics = () => {
   const data = [
     { sum: 2345, month: "Jan" },

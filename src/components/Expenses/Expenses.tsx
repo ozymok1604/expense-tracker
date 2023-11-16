@@ -1,5 +1,5 @@
-import styles from "./styles.module.scss";
 import NikeAvatar from "../../assets/NikeAvatar.svg";
+import styles from "./styles.module.scss";
 const Expenses = () => {
   return (
     <div className={styles.expenses}>
@@ -23,7 +23,7 @@ const Expenses = () => {
         <div className={styles.spends}>
           <div className={styles.spend}>$4335</div>
           <div className={styles.budget}>$6635</div>
-          <div className={styles.procents}>65%</div>
+          <div className={styles.procents}>75%</div>
         </div>
         <div className={styles.procents_scale}></div>
       </div>

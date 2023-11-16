@@ -1,8 +1,8 @@
-import styles from "./styles.module.scss";
 import PurpleCard from "../../assets/PurpleCard.svg";
 import OrangeCard from "../../assets/OrangeCard.svg";
+import styles from "./styles.module.scss";
 
-const TotalBalance = ({ data }: { data: any }) => {
+const TotalBalance = ({ data }: { data: Card }) => {
   return (
     <div
       style={{
