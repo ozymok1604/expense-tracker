@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/expense-tracker/static/css/main.5405a651.css",
-    "main.js": "/expense-tracker/static/js/main.923d135b.js",
+    "main.js": "/expense-tracker/static/js/main.0745a733.js",
     "static/js/787.7867192b.chunk.js": "/expense-tracker/static/js/787.7867192b.chunk.js",
     "static/media/Avatar.svg": "/expense-tracker/static/media/Avatar.c7ff3a10a9a7948cc997ee51326d3f01.svg",
     "static/media/PumaAvatar.svg": "/expense-tracker/static/media/PumaAvatar.a8ba3cfc8abb786d1902209d488f545e.svg",
@@ -22,11 +22,11 @@
     "static/media/RightArrow.svg": "/expense-tracker/static/media/RightArrow.b72ae8c76a7ff0ad80bb6ba3750d8414.svg",
     "static/media/ArrowDown.svg": "/expense-tracker/static/media/ArrowDown.cf330f85777114922b8243b2ffbc8f50.svg",
     "main.5405a651.css.map": "/expense-tracker/static/css/main.5405a651.css.map",
-    "main.923d135b.js.map": "/expense-tracker/static/js/main.923d135b.js.map",
+    "main.0745a733.js.map": "/expense-tracker/static/js/main.0745a733.js.map",
     "787.7867192b.chunk.js.map": "/expense-tracker/static/js/787.7867192b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5405a651.css",
-    "static/js/main.923d135b.js"
+    "static/js/main.0745a733.js"
   ]
 }
