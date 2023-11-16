@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/expense-tracker/static/css/main.5405a651.css",
+    "main.js": "/expense-tracker/static/js/main.923d135b.js",
+    "static/js/787.7867192b.chunk.js": "/expense-tracker/static/js/787.7867192b.chunk.js",
+    "static/media/Avatar.svg": "/expense-tracker/static/media/Avatar.c7ff3a10a9a7948cc997ee51326d3f01.svg",
+    "static/media/PumaAvatar.svg": "/expense-tracker/static/media/PumaAvatar.a8ba3cfc8abb786d1902209d488f545e.svg",
+    "static/media/NikeAvatar.svg": "/expense-tracker/static/media/NikeAvatar.8d07eb9d6087c6cebc81cf86190380f1.svg",
+    "static/media/Settings.svg": "/expense-tracker/static/media/Settings.b53f48159284bcbc6eb23c25eca6c9b9.svg",
+    "index.html": "/expense-tracker/index.html",
+    "static/media/ActiveHome.svg": "/expense-tracker/static/media/ActiveHome.b4aebf3c492d5023be5c90c54fad190b.svg",
+    "static/media/Home.svg": "/expense-tracker/static/media/Home.39f4e2dc36706f3097df2d6cc03a5631.svg",
+    "static/media/Allerts.svg": "/expense-tracker/static/media/Allerts.b048a0308c74c22d0705567c208a9086.svg",
+    "static/media/OrangeCard.svg": "/expense-tracker/static/media/OrangeCard.5752825110e0c840127e680a3b667299.svg",
+    "static/media/PurpleCard.svg": "/expense-tracker/static/media/PurpleCard.456740e66fcd8a39f0b92832a90a0f99.svg",
+    "static/media/Calendar.svg": "/expense-tracker/static/media/Calendar.3da3ecb1cf00ea59ed5201669118c71e.svg",
+    "static/media/ActiveExpenses.svg": "/expense-tracker/static/media/ActiveExpenses.28b172e2134637aefa50d6af22a13da5.svg",
+    "static/media/Expenses.svg": "/expense-tracker/static/media/Expenses.2bb64eb0e6d361ff9c55849678137329.svg",
+    "static/media/Add.svg": "/expense-tracker/static/media/Add.c4c8d83d9e9d4688cd24b8de4baaa574.svg",
+    "static/media/Mastercard.svg": "/expense-tracker/static/media/Mastercard.ab6ed6c689983fdd819c9978dd08e635.svg",
+    "static/media/LeftArrow.svg": "/expense-tracker/static/media/LeftArrow.3058d5894e53e31d267aa279ab6aa771.svg",
+    "static/media/RightArrow.svg": "/expense-tracker/static/media/RightArrow.b72ae8c76a7ff0ad80bb6ba3750d8414.svg",
+    "static/media/ArrowDown.svg": "/expense-tracker/static/media/ArrowDown.cf330f85777114922b8243b2ffbc8f50.svg",
+    "main.5405a651.css.map": "/expense-tracker/static/css/main.5405a651.css.map",
+    "main.923d135b.js.map": "/expense-tracker/static/js/main.923d135b.js.map",
+    "787.7867192b.chunk.js.map": "/expense-tracker/static/js/787.7867192b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5405a651.css",
+    "static/js/main.923d135b.js"
+  ]
+}
